@@ -18,6 +18,8 @@
 
 As the new Planning & Development officer at the City of Materloo, you are tasked with the city's strategic planning. As proposals are submitted for new developments and land-use changes, you must consult with experts and community members to decide on what to build, while taking into account the amount of money the city has to work with. Your decisions have lasting impacts on the community and will shape the future of the residents you serve.
 
+*This is a student project and is not affiliated with or endorsed by the City of Waterloo or EngageWR.*
+
 ### Built With
 
 - [Twine](https://twinery.org/)
