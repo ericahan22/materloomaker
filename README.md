@@ -6,7 +6,7 @@
   </a>
 
   <p align="center">
-    <strong>Materloo Maker</strong> is a text-based web game that encourages civic engagement through strategic resource management. Players take on the role of a city planner, balancing public satsifaction and budget constraints to shape a growing community.
+    <strong>Materloo Maker</strong> is a text-based web game that encourages civic engagement through strategic resource management. Players take on the role of a city planner, balancing public satisfaction and budget constraints to shape a growing community.
     <br />
     <br />
     <a href="https://ericahan22.github.io/materloomaker/">Play here!</a>
